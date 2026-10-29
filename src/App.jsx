@@ -242,7 +242,7 @@ function App() {
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-green-600 to-orange-600 bg-clip-text text-transparent">
                   Smart Meal Planner
                 </h1>
-                <p className="text-sm text-gray-500">Ab ghr mein agr kuch na ho to AI bnaye ga apke liye ek new recipe or karega ap logon ke ghar ke aaj khany mein kia banaya jaye</p>
+                <p className="text-sm text-gray-500">Fridge khali hai? Tension not! 🤖 AI hai na! Aapke kitchen ke samaan se hi banayega ek new recipe.</p>
               </div>
             </div>
             <button
